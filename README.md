@@ -2,9 +2,9 @@
 
 Running-sim is a simple program that was made for a school project.
 
-# Modules
+# Libraries
 
-Needed modules:
+Needed libraries:
 
 - Tkinter
 - MatPlotLib
