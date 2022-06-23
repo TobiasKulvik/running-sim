@@ -2,7 +2,7 @@
 
 Running-sim is a simple program that was made for a school project.
 
-# running-sim
+# Modules
 
 Needed modules:
 
