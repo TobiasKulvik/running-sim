@@ -9,6 +9,7 @@ Needed modules:
 - Tkinter
 - MatPlotLib
 - Math
+- Pandas
 
 # Description
 
