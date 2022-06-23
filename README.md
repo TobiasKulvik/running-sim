@@ -6,9 +6,9 @@ Running-sim is a simple program that was made for a school project.
 
 Needed modules:
 
-Tkinter
-MatPlotLib
-Math
+- Tkinter
+- MatPlotLib
+- Math
 
 # Description
 
